@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Recycle View</string>
+    <string-array name="chelik">
+        <item>Мейн-Кун</item>
+        <item>Шотландская вислоухая</item>
+        <item>Британец</item>
+        <item>Сиамская</item>
+        <item>Абиссинская</item>
+        <item>Русская голубая</item>
+        <item>Ориаентал</item>
+        <item>Сфинкс</item>
+        <item>Сфинкс</item>
+        <item>Сфинкс</item>
+    </string-array>
+    <string-array name="opisanie">
+        <item>Угрюмый</item>
+        <item>Удивлённая</item>
+        <item>Злой</item>
+        <item>Активная</item>
+        <item>Серьёзная</item>
+        <item>Грациозная</item>
+        <item>Смешная</item>
+        <item>Лысая</item>
+        <item>Лысая</item>
+        <item>Лысая</item>
+    </string-array>
+
+</resources>
